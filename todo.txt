@@ -1,0 +1,3 @@
+how to set d2coding as default font
+how to set font size
+how to restart dwm
